@@ -9,7 +9,7 @@ The ESP8266 will detect this and alert the pilot by sending back a message to th
 
 dependencies: createap (to automatically create the wifi ap)
 
-1.start flightap.py ( in terminal "python flightap.py")
-2.set ap name and password in nodemcu code.
-3.start fcn and esp8266 (make sure joystick is plugged in)
+1.start flightap.py ( in terminal "python flightap.py")\
+2.set ap name and password in nodemcu code.\
+3.start fcn and esp8266 (make sure joystick is plugged in)\
 
